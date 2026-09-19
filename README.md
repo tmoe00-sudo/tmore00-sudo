@@ -1,6 +1,6 @@
 # Hi, I'm Takoda Moore 👋
 
-Junior at Elon University studying finance and data — and apparently also a self-taught developer now.
+Senior at Elon University studying finance and data — and apparently also a self-taught developer now.
 
 By day I'm running e-commerce and supply chain at Malibu Shirts, a family retail company with stores across Hawaii. By night I'm building AI tools because my professor's slides were bad and I refused to just deal with it.
 
